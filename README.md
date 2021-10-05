@@ -1,1 +1,1 @@
-#Mans otrais vai trešais git projekts
+# Mans otrais vai trešais git projekts
